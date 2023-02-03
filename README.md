@@ -1,6 +1,6 @@
 - 👋 Hi, I’m krishna
 - 👀 I’m interested in statistics, analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on analytics projects
 - 📫 How to reach me: kris.barfiwala@gmail.com
 
