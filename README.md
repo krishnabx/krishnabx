@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna
-- 📚 I am pursuing Masters in Data Analytics Engineering to supplement my Masters of Science in Statistics
+- 📚 I graduated with Masters in Data Analytics Engineering to supplement my Masters of Science in Statistics
 - 👀 I’m interested in statistics, data analytics
 - 🌱 I’m proficient in Python, SQL and R
 - 💞️ I’m looking to collaborate on data analytics projects
