@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Krishna
 - 📚 I graduated with Masters in Data Analytics Engineering to supplement my Masters of Science in Statistics
 - 👀 I’m interested in statistics, data analytics
-- 🌱 I’m proficient in Python, SQL and R
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me: barfiwala.k@northeastern.edu 
+- 🌱 I’m proficient in Python, SQL, R and Cloud technologies 
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 How to reach me: krishnabarfiwala2@gmail.com 
 
 <!---
 krishnabx/krishnabx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
