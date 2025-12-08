@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Krishna
 - 📚 I graduated with Masters in Data Analytics Engineering to supplement my Masters of Science in Statistics
-- 👀 I’m interested in statistics, data analytics
-- 🌱 I’m proficient in Python, SQL, R and Cloud technologies 
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m all in for Statistics, Data Analytics, Data Science and ML 
+- 🌱 I’m proficient in Python, SQL, R, Tableau, PowerBI and Cloud technologies 
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: krishnabarfiwala2@gmail.com 
 
 <!---
